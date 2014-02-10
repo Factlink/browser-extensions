@@ -43,7 +43,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>https://static.factlink.com/extension/safari/factlink.plist</string>
+	<string>https://static.factlink.com/extension/firefox/factlink-safari.plist</string>
 	<key>Website</key>
 	<string>https://factlink.com</string>
 </dict>
