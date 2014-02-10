@@ -17,4 +17,4 @@ For now the chrome extension does not support injection on install. Here is an (
 Chrome extension
 ---
 
-Building the Safari extension requires to load the factlink.safariextension folder into the Extension Builder of Safari. Installing the extension requires a Safari developer account and a certificate that can be requested on (http://developer.apple.com/certificates/safari/). After updating the extension you can build and install the extension.
+Building the Safari extension requires to load the factlink.safariextension folder into the Extension Builder of Safari. Installing the extension requires a Safari developer account and a certificate that can be requested on http://developer.apple.com/certificates/safari/. After updating the extension you can build and install the extension.
