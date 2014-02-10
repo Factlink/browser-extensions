@@ -5,7 +5,9 @@
   "content_scripts": [
     {
       "matches": ["http://*/*", "https://*/*"],
-      "js": ["inject-factlink.js"]
+      "js": ["inject-factlink.js"],
+      "run_at": "document_start",
+      "all_frames": false
     }
   ],
   "manifest_version": 2
