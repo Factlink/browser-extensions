@@ -1,0 +1,12 @@
+{
+  "name": "Factlink for Chrome",
+  "version": "1.0",
+  "description": "Integrates the Factlink commenting & annotation tool in every site.",
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["inject-factlink.js"]
+    }
+  ],
+  "manifest_version": 2
+}
