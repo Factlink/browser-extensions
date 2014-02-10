@@ -3,7 +3,8 @@
   "title": "Factlink for Firefox",
   "id": "jid1-RJoASo66qBRGxw",
   "description": "Integrates the Factlink commenting & annotation tool in every site.",
-  "author": "Factlink",
-  "license": "MPL 2.0",
+  "author": "Factlink (http://factlink.com/)",
+  "homepage": "http://factlink.com",
+  "license": "MIT",
   "version": "1.0"
 }
