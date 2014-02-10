@@ -1,9 +1,9 @@
 {
-  "name": "newff",
-  "title": "newFF",
+  "name": "factlink-extension",
+  "title": "Factlink for Firefox",
   "id": "jid1-RJoASo66qBRGxw",
-  "description": "a basic add-on",
-  "author": "",
+  "description": "Integrates the Factlink commenting & annotation tool in every site.",
+  "author": "Factlink",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "1.0"
 }
