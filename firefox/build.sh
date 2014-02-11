@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 #https://static.factlink.com/extension/firefox/updates.rdf
 #https://static.factlink.com/extension/firefox/factlink-#{self[:version]}.xpi"
