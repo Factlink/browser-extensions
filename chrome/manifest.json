@@ -1,6 +1,6 @@
 {
   "name": "Factlink for Chrome",
-  "version": "1.0.3",
+  "version": "1.2.0",
   "description": "Integrates the Factlink commenting & annotation tool in every site.",
   "content_scripts": [
     {
