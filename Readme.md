@@ -18,3 +18,10 @@ Safari extension
 ---
 
 Building the Safari extension requires to load the factlink.safariextension folder into the Extension Builder of Safari. Installing the extension requires a Safari developer account and a certificate that can be requested on http://developer.apple.com/certificates/safari/. After updating the extension you can build and install the extension.
+
+
+### Releasing a new version
+We're using Github pages for hosting our extensions. When releasing a new version of the extension you follow these steps:
+- Build the new extension locally
+- Push changes to the master branch (including the compiled version of the extension)
+- Merge ```master``` branch to ```gh-pages``` branch
