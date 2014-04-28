@@ -1,0 +1,10 @@
+{
+  "name": "factlink-extension",
+  "title": "Factlink for Firefox",
+  "id": "jid1-RJoASo66qBRGxw",
+  "description": "Integrates the Factlink commenting & annotation tool in every site.",
+  "author": "Factlink (https://factlink.com/)",
+  "homepage": "https://factlink.com",
+  "license": "MIT",
+  "version": "1.3.0"
+}
